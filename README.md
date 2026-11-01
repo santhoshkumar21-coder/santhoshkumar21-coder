@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Santhosh Kumar 👋
 
-<!--
-**santhoshkumar21-coder/santhoshkumar21-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Science and Engineering Student at Chennai Institute of Technology
 
-Here are some ideas to get you started:
+💻 Currently learning C++ and programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Interested in Cybersecurity and Software Development.
+
+🌱 Building my programming skills through coding practice and academic projects.
+
+## Technical Skills
+
+- C++
+- Problem Solving
+- Programming Fundamentals
+
+## Current Goals
+
+- Strengthen my C++ programming skills.
+- Practice coding problems regularly.
+- Learn Git and GitHub.
+- Build meaningful engineering projects.
+- Explore cybersecurity.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/santhosh-kumar-804794447?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+Thanks for visiting my profile!
